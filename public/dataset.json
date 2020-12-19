@@ -1,0 +1,3643 @@
+[{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b29"
+  },
+  "artists": [
+    {
+      "name": "Internet Money",
+      "id": "6MPCFvOQv5cIGfw3jODMF0"
+    },
+    {
+      "name": "Gunna",
+      "id": "2hlmm7s2ICUX0LVIhVFlZQ"
+    },
+    {
+      "name": "Don Toliver",
+      "id": "4Gso3d4CscCijv0lmajZWs"
+    },
+    {
+      "name": "NAV",
+      "id": "7rkW85dBwwrJtlHRDkJDAC"
+    }
+  ],
+  "title": "Lemonade (feat. Gunna, Don Toliver & NAV)",
+  "metadata": {
+    "spotifyId": "7hxHWCCAIIxFLCzvDgnQHX",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 87,
+    "duration": 195428,
+    "releaseDate": {
+      "$date": "2020-08-28T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ca0c952f130e28025209cf0"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b2b"
+  },
+  "artists": [
+    {
+      "name": "Cardi B",
+      "id": "4kYSro6naA4h99UJvo89HB"
+    },
+    {
+      "name": "Megan Thee Stallion",
+      "id": "181bsRPaVXVlUKXrxwZfHK"
+    }
+  ],
+  "title": "WAP (feat. Megan Thee Stallion)",
+  "metadata": {
+    "spotifyId": "4Oun2ylbjFKMPTiaSbbCih",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 98,
+    "duration": 187541,
+    "releaseDate": {
+      "$date": "2020-08-07T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b2d"
+  },
+  "artists": [
+    {
+      "name": "24kGoldn",
+      "id": "6fWVd57NKTalqvmjRd2t8Z"
+    },
+    {
+      "name": "iann dior",
+      "id": "6ASri4ePR7RlsvIQgWPJpS"
+    }
+  ],
+  "title": "Mood (feat. iann dior)",
+  "metadata": {
+    "spotifyId": "3tjFYV6RSFtuktYl3ZtYcq",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 100,
+    "duration": 140525,
+    "releaseDate": {
+      "$date": "2020-07-24T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff8c985ecb3b7c5f847be357"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b2f"
+  },
+  "artists": [
+    {
+      "name": "Pop Smoke",
+      "id": "0eDvMgVFoNV3TpwtrVCoTj"
+    },
+    {
+      "name": "Lil Baby",
+      "id": "5f7VJjfbwm532GiveGC0ZK"
+    },
+    {
+      "name": "DaBaby",
+      "id": "4r63FhuTkUYltbVAg5TQnk"
+    }
+  ],
+  "title": "For The Night (feat. Lil Baby & DaBaby)",
+  "metadata": {
+    "spotifyId": "0PvFJmanyNQMseIFrU708S",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 95,
+    "duration": 190476,
+    "releaseDate": {
+      "$date": "2020-07-03T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b31"
+  },
+  "artists": [
+    {
+      "name": "Drake",
+      "id": "3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "name": "Lil Durk",
+      "id": "3hcs9uc56yIGFCSy9leWe7"
+    }
+  ],
+  "title": "Laugh Now Cry Later (feat. Lil Durk)",
+  "metadata": {
+    "spotifyId": "2SAqBLGA283SUiwJ3xOUVI",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 95,
+    "duration": 261492,
+    "releaseDate": {
+      "$date": "2020-08-14T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352c75ed37313b889447011ef"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b33"
+  },
+  "artists": [
+    {
+      "name": "Pop Smoke",
+      "id": "0eDvMgVFoNV3TpwtrVCoTj"
+    }
+  ],
+  "title": "What You Know Bout Love",
+  "metadata": {
+    "spotifyId": "1tkg4EHVoqnhR6iFEXb60y",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 93,
+    "duration": 160000,
+    "releaseDate": {
+      "$date": "2020-07-03T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b35"
+  },
+  "artists": [
+    {
+      "name": "Fleetwood Mac",
+      "id": "08GQAI4eElDnROBrJRGE0X"
+    }
+  ],
+  "title": "Dreams - 2004 Remaster",
+  "metadata": {
+    "spotifyId": "0ofHAoxe9vBkTCp2UQIavz",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 88,
+    "duration": 257800,
+    "releaseDate": {
+      "$date": "1977-02-04T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b37"
+  },
+  "artists": [
+    {
+      "name": "Justin Bieber",
+      "id": "1uNFoZAHBGtllmzznpCI3s"
+    },
+    {
+      "name": "Chance the Rapper",
+      "id": "1anyVhU62p31KFi8MEzkbf"
+    }
+  ],
+  "title": "Holy (feat. Chance The Rapper)",
+  "metadata": {
+    "spotifyId": "5u1n1kITHCxxp8twBcZxWy",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 94,
+    "duration": 212093,
+    "releaseDate": {
+      "$date": "2020-09-18T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273572c68f79b356c21202e248c"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b39"
+  },
+  "artists": [
+    {
+      "name": "DaBaby",
+      "id": "4r63FhuTkUYltbVAg5TQnk"
+    },
+    {
+      "name": "Roddy Ricch",
+      "id": "757aE44tKEUQEqRuT6GnEB"
+    }
+  ],
+  "title": "ROCKSTAR (feat. Roddy Ricch)",
+  "metadata": {
+    "spotifyId": "7ytR5pFWmSjzHJIeQkgog4",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 95,
+    "duration": 181733,
+    "releaseDate": {
+      "$date": "2020-04-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b3b"
+  },
+  "artists": [
+    {
+      "name": "Justin Bieber",
+      "id": "1uNFoZAHBGtllmzznpCI3s"
+    },
+    {
+      "name": "benny blanco",
+      "id": "5CiGnKThu5ctn9pBxv7DGa"
+    }
+  ],
+  "title": "Lonely (with benny blanco)",
+  "metadata": {
+    "spotifyId": "4y4spB9m0Q6026KfkAvy9Q",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 81,
+    "duration": 149297,
+    "releaseDate": {
+      "$date": "2020-10-16T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b3d"
+  },
+  "artists": [
+    {
+      "name": "Juice WRLD",
+      "id": "4MCBfE4596Uoi2O4DtmEMz"
+    }
+  ],
+  "title": "Wishing Well",
+  "metadata": {
+    "spotifyId": "2U5WueTLIK5WJLD7mvDODv",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 91,
+    "duration": 194621,
+    "releaseDate": {
+      "$date": "2020-07-10T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b3f"
+  },
+  "artists": [
+    {
+      "name": "Juice WRLD",
+      "id": "4MCBfE4596Uoi2O4DtmEMz"
+    },
+    {
+      "name": "Marshmello",
+      "id": "64KEffDW9EtZ1y2vBYgq8T"
+    }
+  ],
+  "title": "Come & Go (with Marshmello)",
+  "metadata": {
+    "spotifyId": "2Y0wPrPQBrGhoLn14xRYCG",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 90,
+    "duration": 205484,
+    "releaseDate": {
+      "$date": "2020-07-10T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b41"
+  },
+  "artists": [
+    {
+      "name": "The Weeknd",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ"
+    }
+  ],
+  "title": "Blinding Lights",
+  "metadata": {
+    "spotifyId": "0VjIjW4GlUZAMYd2vXMi3b",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 96,
+    "duration": 200040,
+    "releaseDate": {
+      "$date": "2020-03-20T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b43"
+  },
+  "artists": [
+    {
+      "name": "21 Savage",
+      "id": "1URnnhqYAYcrqrcwql10ft"
+    },
+    {
+      "name": "Metro Boomin",
+      "id": "0iEtIxbK0KxaSlF7G42ZOp"
+    },
+    {
+      "name": "Drake",
+      "id": "3TVXtAsR1Inumwj472S9r4"
+    }
+  ],
+  "title": "Mr. Right Now (feat. Drake)",
+  "metadata": {
+    "spotifyId": "4Q34FP1AT7GEl9oLgNtiWj",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 87,
+    "duration": 193838,
+    "releaseDate": {
+      "$date": "2020-10-02T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed3a4b6dd53a2055bd2053b9"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b45"
+  },
+  "artists": [
+    {
+      "name": "DJ Khaled",
+      "id": "0QHgL1lAIqAw0HtD7YldmP"
+    },
+    {
+      "name": "Drake",
+      "id": "3TVXtAsR1Inumwj472S9r4"
+    }
+  ],
+  "title": "POPSTAR (feat. Drake)",
+  "metadata": {
+    "spotifyId": "6EDO9iiTtwNv6waLwa1UUq",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 93,
+    "duration": 200221,
+    "releaseDate": {
+      "$date": "2020-07-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efaecb4b9cbae7c120d14617"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b47"
+  },
+  "artists": [
+    {
+      "name": "BTS",
+      "id": "3Nrfpe0tUJi4K4DXYWgMUX"
+    }
+  ],
+  "title": "Dynamite",
+  "metadata": {
+    "spotifyId": "0t1kP63rueHleOhQkYSXFY",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 97,
+    "duration": 199053,
+    "releaseDate": {
+      "$date": "2020-08-28T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273755995e9ff2b1b0c753f5eb8"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b49"
+  },
+  "artists": [
+    {
+      "name": "21 Savage",
+      "id": "1URnnhqYAYcrqrcwql10ft"
+    },
+    {
+      "name": "Metro Boomin",
+      "id": "0iEtIxbK0KxaSlF7G42ZOp"
+    }
+  ],
+  "title": "Runnin",
+  "metadata": {
+    "spotifyId": "5SWnsxjhdcEDc7LJjq9UHk",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 86,
+    "duration": 195906,
+    "releaseDate": {
+      "$date": "2020-10-02T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed3a4b6dd53a2055bd2053b9"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b4b"
+  },
+  "artists": [
+    {
+      "name": "Conan Gray",
+      "id": "4Uc8Dsxct0oMqx0P6i60ea"
+    }
+  ],
+  "title": "Heather",
+  "metadata": {
+    "spotifyId": "4xqrdfXkTW4T0RauPLv3WA",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 94,
+    "duration": 198040,
+    "releaseDate": {
+      "$date": "2020-03-20T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b4d"
+  },
+  "artists": [
+    {
+      "name": "Jack Harlow",
+      "id": "2LIk90788K0zvyj2JJVwkJ"
+    },
+    {
+      "name": "Tory Lanez",
+      "id": "2jku7tDXc6XoB6MO2hFuqg"
+    },
+    {
+      "name": "DaBaby",
+      "id": "4r63FhuTkUYltbVAg5TQnk"
+    },
+    {
+      "name": "Lil Wayne",
+      "id": "55Aa2cqylxrFIXC767Z865"
+    }
+  ],
+  "title": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
+  "metadata": {
+    "spotifyId": "2MbdDtCv5LUVjYy9RuGTgC",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 90,
+    "duration": 227478,
+    "releaseDate": {
+      "$date": "2020-06-24T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5f0a8d46cef9647548c64dc"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b4f"
+  },
+  "artists": [
+    {
+      "name": "Ritt Momney",
+      "id": "7MPGCB854Qo4alYMOPkBka"
+    }
+  ],
+  "title": "Put Your Records On",
+  "metadata": {
+    "spotifyId": "6AGOKlMZWLCaEJGnaROtF9",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 90,
+    "duration": 210463,
+    "releaseDate": {
+      "$date": "2020-04-24T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d52d8eb3be188231e120dbbd"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b51"
+  },
+  "artists": [
+    {
+      "name": "Lil Mosey",
+      "id": "5zctI4wO9XSKS8XwcnqEHk"
+    }
+  ],
+  "title": "Blueberry Faygo",
+  "metadata": {
+    "spotifyId": "22LAwLoDA5b4AaGSkg6bKW",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 85,
+    "duration": 162546,
+    "releaseDate": {
+      "$date": "2020-02-06T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730824105a6282782aaabb0584"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b53"
+  },
+  "artists": [
+    {
+      "name": "Harry Styles",
+      "id": "6KImCVD70vtIoJWnq6nGn3"
+    }
+  ],
+  "title": "Watermelon Sugar",
+  "metadata": {
+    "spotifyId": "6UelLqGlWMcVH1E5c4H7lY",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 95,
+    "duration": 174000,
+    "releaseDate": {
+      "$date": "2019-12-13T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b55"
+  },
+  "artists": [
+    {
+      "name": "Tate McRae",
+      "id": "45dkTj5sMRSjrmBSBeiHym"
+    }
+  ],
+  "title": "you broke me first",
+  "metadata": {
+    "spotifyId": "45bE4HXI0AwGZXfZtMp8JR",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 94,
+    "duration": 169265,
+    "releaseDate": {
+      "$date": "2020-04-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c2c97099fd6a637ed0aa4a4"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b57"
+  },
+  "artists": [
+    {
+      "name": "Shawn Mendes",
+      "id": "7n2wHs1TKAczGzO7Dd2rGr"
+    }
+  ],
+  "title": "Wonder",
+  "metadata": {
+    "spotifyId": "5KCbr5ndeby4y4ggthdiAb",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 90,
+    "duration": 172692,
+    "releaseDate": {
+      "$date": "2020-10-02T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d9621bb2904dc57a60a6b36"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b59"
+  },
+  "artists": [
+    {
+      "name": "Machine Gun Kelly",
+      "id": "6TIYQ3jFPwQSRmorSezPxX"
+    },
+    {
+      "name": "blackbear",
+      "id": "2cFrymmkijnjDg9SS92EPM"
+    }
+  ],
+  "title": "my ex's best friend (with blackbear)",
+  "metadata": {
+    "spotifyId": "7kDUspsoYfLkWnZR7qwHZl",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 87,
+    "duration": 139460,
+    "releaseDate": {
+      "$date": "2020-09-25T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4d4929a3a86fe2f9fadbd42"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b5b"
+  },
+  "artists": [
+    {
+      "name": "Pop Smoke",
+      "id": "0eDvMgVFoNV3TpwtrVCoTj"
+    },
+    {
+      "name": "Lil Tjay",
+      "id": "6jGMq4yGs7aQzuGsMgVgZR"
+    }
+  ],
+  "title": "Mood Swings (feat. Lil Tjay)",
+  "metadata": {
+    "spotifyId": "5rZlwNFl01HqLWBQGryKSm",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 92,
+    "duration": 213333,
+    "releaseDate": {
+      "$date": "2020-07-03T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b5d"
+  },
+  "artists": [
+    {
+      "name": "Polo G",
+      "id": "6AgTAQt8XS6jRWi4sX7w49"
+    }
+  ],
+  "title": "Martin & Gina",
+  "metadata": {
+    "spotifyId": "1VLtjHwRWOVJiE5Py7JxoQ",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 86,
+    "duration": 132832,
+    "releaseDate": {
+      "$date": "2020-05-15T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273339f780dfdbc38558ea0761d"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b5f"
+  },
+  "artists": [
+    {
+      "name": "Money Man",
+      "id": "3Rx4PJ7SP6unkOk5elPUK7"
+    },
+    {
+      "name": "Lil Baby",
+      "id": "5f7VJjfbwm532GiveGC0ZK"
+    }
+  ],
+  "title": "24 (feat. Lil Baby)",
+  "metadata": {
+    "spotifyId": "0xUvi7wldroBzaZCengPa5",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 71,
+    "duration": 182857,
+    "releaseDate": {
+      "$date": "2020-08-21T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e33fc915c2103b7406e5fa81"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b61"
+  },
+  "artists": [
+    {
+      "name": "Clairo",
+      "id": "3l0CmX0FuQjFxr8SK7Vqag"
+    }
+  ],
+  "title": "Sofia",
+  "metadata": {
+    "spotifyId": "7B3z0ySL9Rr0XvZEAjWZzM",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 85,
+    "duration": 188386,
+    "releaseDate": {
+      "$date": "2019-08-02T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b63"
+  },
+  "artists": [
+    {
+      "name": "Juice WRLD",
+      "id": "4MCBfE4596Uoi2O4DtmEMz"
+    }
+  ],
+  "title": "Lucid Dreams",
+  "metadata": {
+    "spotifyId": "285pBltuF7vW8TeWk8hdRR",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 88,
+    "duration": 239835,
+    "releaseDate": {
+      "$date": "2018-12-10T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b65"
+  },
+  "artists": [
+    {
+      "name": "Juice WRLD",
+      "id": "4MCBfE4596Uoi2O4DtmEMz"
+    }
+  ],
+  "title": "All Girls Are The Same",
+  "metadata": {
+    "spotifyId": "4VXIryQMWpIdGgYR4TrjT1",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 86,
+    "duration": 165819,
+    "releaseDate": {
+      "$date": "2018-12-10T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b67"
+  },
+  "artists": [
+    {
+      "name": "Juice WRLD",
+      "id": "4MCBfE4596Uoi2O4DtmEMz"
+    }
+  ],
+  "title": "Robbery",
+  "metadata": {
+    "spotifyId": "6Hj9jySrnFppAI0sEMCZpJ",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 88,
+    "duration": 240050,
+    "releaseDate": {
+      "$date": "2019-03-08T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af149eb4002f65f83afc63c4"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b69"
+  },
+  "artists": [
+    {
+      "name": "Kane Brown",
+      "id": "3oSJ7TBVCWMDMiYjXNiCKE"
+    },
+    {
+      "name": "Swae Lee",
+      "id": "1zNqQNIdeOUZHb8zbZRFMX"
+    },
+    {
+      "name": "Khalid",
+      "id": "6LuN9FCkKOj5PcnpouEgny"
+    }
+  ],
+  "title": "Be Like That - feat. Swae Lee & Khalid",
+  "metadata": {
+    "spotifyId": "5f1joOtoMeyppIcJGZQvqJ",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 87,
+    "duration": 191406,
+    "releaseDate": {
+      "$date": "2020-07-10T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b670be86ddfa9d49caa56971"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b6b"
+  },
+  "artists": [
+    {
+      "name": "Pop Smoke",
+      "id": "0eDvMgVFoNV3TpwtrVCoTj"
+    },
+    {
+      "name": "50 Cent",
+      "id": "3q7HBObVc0L8jNeTe5Gofh"
+    },
+    {
+      "name": "Roddy Ricch",
+      "id": "757aE44tKEUQEqRuT6GnEB"
+    }
+  ],
+  "title": "The Woo (feat. 50 Cent & Roddy Ricch)",
+  "metadata": {
+    "spotifyId": "1H7KnK26kc1YyellpbINEn",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 89,
+    "duration": 201600,
+    "releaseDate": {
+      "$date": "2020-07-03T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b6d"
+  },
+  "artists": [
+    {
+      "name": "Chris Brown",
+      "id": "7bXgB6jMjp9ATFy66eO08Z"
+    },
+    {
+      "name": "Young Thug",
+      "id": "50co4Is1HCEo8bhOyUWKpn"
+    }
+  ],
+  "title": "Go Crazy",
+  "metadata": {
+    "spotifyId": "1IIKrJVP1C9N7iPtG6eOsK",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 90,
+    "duration": 176960,
+    "releaseDate": {
+      "$date": "2020-05-08T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b6f"
+  },
+  "artists": [
+    {
+      "name": "Roddy Ricch",
+      "id": "757aE44tKEUQEqRuT6GnEB"
+    }
+  ],
+  "title": "The Box",
+  "metadata": {
+    "spotifyId": "0nbXyq5TXYPCO7pr3N8S4I",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 89,
+    "duration": 196652,
+    "releaseDate": {
+      "$date": "2019-12-06T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b71"
+  },
+  "artists": [
+    {
+      "name": "Post Malone",
+      "id": "246dkjvS1zLTtiykXe5h60"
+    }
+  ],
+  "title": "Circles",
+  "metadata": {
+    "spotifyId": "21jGcNKet2qwijlDFuPiPb",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 89,
+    "duration": 215280,
+    "releaseDate": {
+      "$date": "2019-09-06T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b73"
+  },
+  "artists": [
+    {
+      "name": "Juice WRLD",
+      "id": "4MCBfE4596Uoi2O4DtmEMz"
+    },
+    {
+      "name": "The Weeknd",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ"
+    }
+  ],
+  "title": "Smile (with The Weeknd)",
+  "metadata": {
+    "spotifyId": "6wQlQrTY5mVS8EGaFZVwVF",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 86,
+    "duration": 196180,
+    "releaseDate": {
+      "$date": "2020-07-10T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b75"
+  },
+  "artists": [
+    {
+      "name": "Jawsh 685",
+      "id": "56mfhUDKa1vec6rSLZV5Eg"
+    },
+    {
+      "name": "Jason Derulo",
+      "id": "07YZf4WDAMNwqr4jfgOZ8y"
+    }
+  ],
+  "title": "Savage Love (Laxed - Siren Beat)",
+  "metadata": {
+    "spotifyId": "1xQ6trAsedVPCdbtDAmk0c",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 94,
+    "duration": 171374,
+    "releaseDate": {
+      "$date": "2020-06-11T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3eb3b8feeafb746ecf659e7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b77"
+  },
+  "artists": [
+    {
+      "name": "Post Malone",
+      "id": "246dkjvS1zLTtiykXe5h60"
+    },
+    {
+      "name": "Swae Lee",
+      "id": "1zNqQNIdeOUZHb8zbZRFMX"
+    }
+  ],
+  "title": "Sunflower - Spider-Man: Into the Spider-Verse",
+  "metadata": {
+    "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 82,
+    "duration": 157560,
+    "releaseDate": {
+      "$date": "2019-09-06T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b79"
+  },
+  "artists": [
+    {
+      "name": "SAINt JHN",
+      "id": "0H39MdGGX6dbnnQPt6NQkZ"
+    },
+    {
+      "name": "Imanbek",
+      "id": "5rGrDvrLOV2VV8SCFVGWlj"
+    }
+  ],
+  "title": "Roses - Imanbek Remix",
+  "metadata": {
+    "spotifyId": "2Wo6QQD1KMDWeFkkjLqwx5",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 81,
+    "duration": 176218,
+    "releaseDate": {
+      "$date": "2019-09-13T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369450869a3ffaf23bc3898bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b7b"
+  },
+  "artists": [
+    {
+      "name": "Ashnikko",
+      "id": "3PyJHH2wyfQK3WZrk9rpmP"
+    }
+  ],
+  "title": "Daisy",
+  "metadata": {
+    "spotifyId": "0AUvWawuP0ibk4SQ3sIZjk",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 87,
+    "duration": 146523,
+    "releaseDate": {
+      "$date": "2020-07-09T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a759c9110a458a97f767eb2d"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b7d"
+  },
+  "artists": [
+    {
+      "name": "Big Sean",
+      "id": "0c173mlxpT3dSFRgMO8XPh"
+    },
+    {
+      "name": "Post Malone",
+      "id": "246dkjvS1zLTtiykXe5h60"
+    }
+  ],
+  "title": "Wolves (feat. Post Malone)",
+  "metadata": {
+    "spotifyId": "33gwZOGJWEZ7dRWPqPxBEZ",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 86,
+    "duration": 199758,
+    "releaseDate": {
+      "$date": "2020-09-04T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1b3fdd23be4c158d4d2c32f"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b7f"
+  },
+  "artists": [
+    {
+      "name": "Travis Scott",
+      "id": "0Y5tJX1MQlPlqiwlOH1tJY"
+    },
+    {
+      "name": "Young Thug",
+      "id": "50co4Is1HCEo8bhOyUWKpn"
+    },
+    {
+      "name": "M.I.A.",
+      "id": "0QJIPDAEDILuo8AIq3pMuU"
+    }
+  ],
+  "title": "FRANCHISE (feat. Young Thug & M.I.A.)",
+  "metadata": {
+    "spotifyId": "4jVBIpuOiMj1crqd8LoCrJ",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 87,
+    "duration": 202794,
+    "releaseDate": {
+      "$date": "2020-09-25T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370f2ab5608885749f7210b5f"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b81"
+  },
+  "artists": [
+    {
+      "name": "Gunna",
+      "id": "2hlmm7s2ICUX0LVIhVFlZQ"
+    },
+    {
+      "name": "Young Thug",
+      "id": "50co4Is1HCEo8bhOyUWKpn"
+    }
+  ],
+  "title": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+  "metadata": {
+    "spotifyId": "3nS9a01VvXHQriLqJYwRqG",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 85,
+    "duration": 197760,
+    "releaseDate": {
+      "$date": "2020-05-22T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7547a7624116ac5f8a51fd2"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b83"
+  },
+  "artists": [
+    {
+      "name": "Lewis Capaldi",
+      "id": "4GNC7GD6oZMSxPGyXy4MNB"
+    }
+  ],
+  "title": "Someone You Loved",
+  "metadata": {
+    "spotifyId": "7qEHsqek33rTcFNT9PFqLf",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 90,
+    "duration": 182160,
+    "releaseDate": {
+      "$date": "2019-05-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b85"
+  },
+  "artists": [
+    {
+      "name": "Lewis Capaldi",
+      "id": "4GNC7GD6oZMSxPGyXy4MNB"
+    }
+  ],
+  "title": "Before You Go",
+  "metadata": {
+    "spotifyId": "2gMXnyrvIjhVBUZwvLZDMP",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 86,
+    "duration": 215106,
+    "releaseDate": {
+      "$date": "2019-11-22T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b9639babbe96e25071ec1d4"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b87"
+  },
+  "artists": [
+    {
+      "name": "Don Toliver",
+      "id": "4Gso3d4CscCijv0lmajZWs"
+    }
+  ],
+  "title": "After Party",
+  "metadata": {
+    "spotifyId": "527k23H0A4Q0UJN3vGs0Da",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 86,
+    "duration": 167915,
+    "releaseDate": {
+      "$date": "2020-03-13T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b89"
+  },
+  "artists": [
+    {
+      "name": "Lil Baby",
+      "id": "5f7VJjfbwm532GiveGC0ZK"
+    },
+    {
+      "name": "42 Dugg",
+      "id": "45gHcnDnMC15sgx3VL7ROG"
+    }
+  ],
+  "title": "We Paid (feat. 42 Dugg)",
+  "metadata": {
+    "spotifyId": "6gxKUmycQX7uyMwJcweFjp",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 84,
+    "duration": 181929,
+    "releaseDate": {
+      "$date": "2020-05-01T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b8b"
+  },
+  "artists": [
+    {
+      "name": "StaySolidRocky",
+      "id": "1XLWox9w1Yvbodui0SRhUQ"
+    }
+  ],
+  "title": "Party Girl",
+  "metadata": {
+    "spotifyId": "3IJYUaN3tx04S4TYyZHKoP",
+    "playlistId": "37i9dQZEVXbLRQDuF5jeBp",
+    "popularity": 79,
+    "duration": 147800,
+    "releaseDate": {
+      "$date": "2020-07-15T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1255abfe0381a9e6fedb301"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b8d"
+  },
+  "artists": [
+    {
+      "name": "13 Organisé",
+      "id": "19u3RGWKsjmbg9eI6zAiNp"
+    },
+    {
+      "name": "SCH",
+      "id": "2kXKa3aAFngGz2P4GjG5w2"
+    },
+    {
+      "name": "Kofs",
+      "id": "5RaQ9nmVGoTye2SI76x3yw"
+    },
+    {
+      "name": "Jul",
+      "id": "3IW7ScrzXmPvZhB27hmfgy"
+    },
+    {
+      "name": "Naps",
+      "id": "6W5uA6CNMf3hd2j4a2XWCx"
+    },
+    {
+      "name": "Soso Maness",
+      "id": "0oeiA5U9u1U45Gos5cywUU"
+    },
+    {
+      "name": "Elams",
+      "id": "2IoSLl3tqYMq9DzR0d6NJN"
+    },
+    {
+      "name": "Solda",
+      "id": "7FXX45sHqoQoCwqtG0ZV8H"
+    },
+    {
+      "name": "Houari",
+      "id": "6zrOXBaNn0DqJeXxgC2eyH"
+    }
+  ],
+  "title": "Bande organisée",
+  "metadata": {
+    "spotifyId": "6YzQOngfcV0W9F8UOTnEEK",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 66,
+    "duration": 356346,
+    "releaseDate": {
+      "$date": "2020-10-09T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a3b5cd47c9a6932adaa5ef7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b8f"
+  },
+  "artists": [
+    {
+      "name": "Naza",
+      "id": "7xNYY1Zkb1vks5m9ATlJok"
+    },
+    {
+      "name": "Niska",
+      "id": "7CUFPNi1TU8RowpnFRSsZV"
+    }
+  ],
+  "title": "Joli bébé",
+  "metadata": {
+    "spotifyId": "6ARJHbYGKNatxHVghTkWWp",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 80,
+    "duration": 178311,
+    "releaseDate": {
+      "$date": "2020-09-11T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344e3d6c4acd2a28746277218"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b91"
+  },
+  "artists": [
+    {
+      "name": "24kGoldn",
+      "id": "6fWVd57NKTalqvmjRd2t8Z"
+    },
+    {
+      "name": "iann dior",
+      "id": "6ASri4ePR7RlsvIQgWPJpS"
+    }
+  ],
+  "title": "Mood (feat. iann dior)",
+  "metadata": {
+    "spotifyId": "3tjFYV6RSFtuktYl3ZtYcq",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 100,
+    "duration": 140525,
+    "releaseDate": {
+      "$date": "2020-07-24T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff8c985ecb3b7c5f847be357"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b93"
+  },
+  "artists": [
+    {
+      "name": "Lacrim",
+      "id": "7DUTsWY3RBd64vh8UtgtYA"
+    },
+    {
+      "name": "Maes",
+      "id": "6L34dW6SKMSDaGIfYDU19j"
+    }
+  ],
+  "title": "Boston George",
+  "metadata": {
+    "spotifyId": "0LU7THzZmFI0k5Z9Upxbto",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 66,
+    "duration": 202346,
+    "releaseDate": {
+      "$date": "2020-10-15T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c149cab8b9e0169bdcc957f7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b95"
+  },
+  "artists": [
+    {
+      "name": "OBOY",
+      "id": "66Ok6bgC570sHkw08N20pZ"
+    }
+  ],
+  "title": "Cabeza",
+  "metadata": {
+    "spotifyId": "66tNDqYNR2S6Svwgm3BMi9",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 77,
+    "duration": 148035,
+    "releaseDate": {
+      "$date": "2020-07-03T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27342f781174d6c8b5f0f1086de"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b97"
+  },
+  "artists": [
+    {
+      "name": "Dadju",
+      "id": "4sbXXFzEWJY2zsZjelerjX"
+    },
+    {
+      "name": "Ninho",
+      "id": "6Te49r3A6f5BiIgBRxH7FH"
+    }
+  ],
+  "title": "Grand bain",
+  "metadata": {
+    "spotifyId": "1fyVvRQsa095P7QK5Um7xH",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 75,
+    "duration": 207076,
+    "releaseDate": {
+      "$date": "2019-12-20T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f7328c4349cf2a3a5d3513e"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b99"
+  },
+  "artists": [
+    {
+      "name": "PLK",
+      "id": "3DCWeG2J1fZeu0Oe6i5Q6m"
+    },
+    {
+      "name": "Hamza",
+      "id": "5gs4Sm2WQUkcGeikMcVHbh"
+    }
+  ],
+  "title": "Pilote (feat. Hamza)",
+  "metadata": {
+    "spotifyId": "12GV2Wr4p1hBWQCrQcVsew",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 76,
+    "duration": 187306,
+    "releaseDate": {
+      "$date": "2020-08-28T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab779f2adb1007f0321ecab8"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b9b"
+  },
+  "artists": [
+    {
+      "name": "UZI",
+      "id": "5U05AU34EcZ8pfohg2dicI"
+    }
+  ],
+  "title": "À la fête",
+  "metadata": {
+    "spotifyId": "0qARyMVNjA6q1uxxO3nofB",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 78,
+    "duration": 204179,
+    "releaseDate": {
+      "$date": "2020-06-25T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735fbd85310f6c490f9402359e"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b9d"
+  },
+  "artists": [
+    {
+      "name": "13 Organisé",
+      "id": "19u3RGWKsjmbg9eI6zAiNp"
+    },
+    {
+      "name": "L'Algérino",
+      "id": "7kyIBL1EYouLqC8vw7IOui"
+    },
+    {
+      "name": "Alonzo",
+      "id": "2z2TRvloJt4EfUNQp9rHAi"
+    },
+    {
+      "name": "Stone Black",
+      "id": "0PMtZ48ugLkoxg4cjggEVl"
+    },
+    {
+      "name": "Le Rat Luciano",
+      "id": "5QuZ9HdvnXcX8kEG782Phv"
+    },
+    {
+      "name": "SCH",
+      "id": "2kXKa3aAFngGz2P4GjG5w2"
+    },
+    {
+      "name": "Jul",
+      "id": "3IW7ScrzXmPvZhB27hmfgy"
+    },
+    {
+      "name": "As",
+      "id": "7r35uLFg5fJcsLe60AdWhK"
+    },
+    {
+      "name": "Veazy",
+      "id": "6iBhhfO297wskZQuZtWnpG"
+    }
+  ],
+  "title": "L'étoile sur le maillot",
+  "metadata": {
+    "spotifyId": "27TFzldNvbEHjUGhmPtwB3",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 71,
+    "duration": 353946,
+    "releaseDate": {
+      "$date": "2020-10-09T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a3b5cd47c9a6932adaa5ef7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306b9f"
+  },
+  "artists": [
+    {
+      "name": "Leto",
+      "id": "6HCBnyTBSLdb3TFn2ayulY"
+    },
+    {
+      "name": "Ninho",
+      "id": "6Te49r3A6f5BiIgBRxH7FH"
+    }
+  ],
+  "title": "Macaroni (feat. Ninho)",
+  "metadata": {
+    "spotifyId": "4Z9CNGHElj2rLkB8mQdvnA",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 77,
+    "duration": 223746,
+    "releaseDate": {
+      "$date": "2020-08-28T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306d27577ee25598cadb001df"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306ba1"
+  },
+  "artists": [
+    {
+      "name": "Lacrim",
+      "id": "7DUTsWY3RBd64vh8UtgtYA"
+    },
+    {
+      "name": "Ninho",
+      "id": "6Te49r3A6f5BiIgBRxH7FH"
+    }
+  ],
+  "title": "Dadinho",
+  "metadata": {
+    "spotifyId": "6s27C7yI8gwZA01WSy3WXG",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 64,
+    "duration": 208586,
+    "releaseDate": {
+      "$date": "2020-10-15T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c149cab8b9e0169bdcc957f7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306ba3"
+  },
+  "artists": [
+    {
+      "name": "Internet Money",
+      "id": "6MPCFvOQv5cIGfw3jODMF0"
+    },
+    {
+      "name": "Gunna",
+      "id": "2hlmm7s2ICUX0LVIhVFlZQ"
+    },
+    {
+      "name": "Don Toliver",
+      "id": "4Gso3d4CscCijv0lmajZWs"
+    },
+    {
+      "name": "NAV",
+      "id": "7rkW85dBwwrJtlHRDkJDAC"
+    }
+  ],
+  "title": "Lemonade (feat. Gunna, Don Toliver & NAV)",
+  "metadata": {
+    "spotifyId": "7hxHWCCAIIxFLCzvDgnQHX",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 87,
+    "duration": 195428,
+    "releaseDate": {
+      "$date": "2020-08-28T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ca0c952f130e28025209cf0"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306ba5"
+  },
+  "artists": [
+    {
+      "name": "Hatik",
+      "id": "05hirnMeVIzCrcUxbrysZU"
+    }
+  ],
+  "title": "Angela",
+  "metadata": {
+    "spotifyId": "6ab3CQvDlAVttThZucwGQ1",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 77,
+    "duration": 236000,
+    "releaseDate": {
+      "$date": "2019-08-30T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3998308f7730324adbeaf31"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306ba7"
+  },
+  "artists": [
+    {
+      "name": "Kalash Criminel",
+      "id": "6ytOHdKh4xt4YvF7tz8Zcv"
+    },
+    {
+      "name": "Damso",
+      "id": "2UwqpfQtNuhBwviIC0f2ie"
+    }
+  ],
+  "title": "But en or",
+  "metadata": {
+    "spotifyId": "6j6KUUyDtjvBz4mkApf9hl",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 64,
+    "duration": 177373,
+    "releaseDate": {
+      "$date": "2020-10-16T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349459dcb79d5d951ed1b09f0"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306ba9"
+  },
+  "artists": [
+    {
+      "name": "Damso",
+      "id": "2UwqpfQtNuhBwviIC0f2ie"
+    },
+    {
+      "name": "Hamza",
+      "id": "5gs4Sm2WQUkcGeikMcVHbh"
+    }
+  ],
+  "title": "BXL ZOO",
+  "metadata": {
+    "spotifyId": "7BO3y8lmogACezwHqZ1HTB",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 78,
+    "duration": 201333,
+    "releaseDate": {
+      "$date": "2020-09-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734327854be74ad162694d5055"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bab"
+  },
+  "artists": [
+    {
+      "name": "13 Organisé",
+      "id": "19u3RGWKsjmbg9eI6zAiNp"
+    },
+    {
+      "name": "Kofs",
+      "id": "5RaQ9nmVGoTye2SI76x3yw"
+    },
+    {
+      "name": "MOH",
+      "id": "3qgMGg3EPBxUtdPOGAUKJF"
+    },
+    {
+      "name": "100 Blaze",
+      "id": "0JxUh8qDlG3xflSV9Of500"
+    },
+    {
+      "name": "Jul",
+      "id": "3IW7ScrzXmPvZhB27hmfgy"
+    },
+    {
+      "name": "Naps",
+      "id": "6W5uA6CNMf3hd2j4a2XWCx"
+    },
+    {
+      "name": "Dadinho",
+      "id": "0zw74GbIgk0thLlMGeQV2H"
+    },
+    {
+      "name": "A-Deal",
+      "id": "5gf4BY4lsH1wyo0DFhMe21"
+    },
+    {
+      "name": "Zak & Diego",
+      "id": "09zzc4SVFPUX3TiDEmueIj"
+    }
+  ],
+  "title": "13 balles",
+  "metadata": {
+    "spotifyId": "6SI92k6CZQAgVf7fq1rSpx",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 69,
+    "duration": 267653,
+    "releaseDate": {
+      "$date": "2020-10-09T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a3b5cd47c9a6932adaa5ef7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bad"
+  },
+  "artists": [
+    {
+      "name": "Franglish",
+      "id": "4uJNQGa3L2frXDxwgouTIw"
+    },
+    {
+      "name": "Tory Lanez",
+      "id": "2jku7tDXc6XoB6MO2hFuqg"
+    }
+  ],
+  "title": "My Salsa",
+  "metadata": {
+    "spotifyId": "7IJIj326qJJA6oi6EpFCBD",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 77,
+    "duration": 209816,
+    "releaseDate": {
+      "$date": "2020-06-12T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f97f6c3d581cb763cdd86e40"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306baf"
+  },
+  "artists": [
+    {
+      "name": "Hatik",
+      "id": "05hirnMeVIzCrcUxbrysZU"
+    },
+    {
+      "name": "Jok'air",
+      "id": "2kIs76sEGiulKeqetZq6ua"
+    }
+  ],
+  "title": "La meilleure",
+  "metadata": {
+    "spotifyId": "2g63GxCZUmhsr4XoKR93F6",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 75,
+    "duration": 185120,
+    "releaseDate": {
+      "$date": "2020-03-06T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336877051c9e70a742b25ce17"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bb1"
+  },
+  "artists": [
+    {
+      "name": "Sofiane",
+      "id": "6qFt3TjvxMt77YGsktWG8Z"
+    },
+    {
+      "name": "SCH",
+      "id": "2kXKa3aAFngGz2P4GjG5w2"
+    }
+  ],
+  "title": "American Airlines",
+  "metadata": {
+    "spotifyId": "3bmz7e9Un3FQRIzXgHBXIG",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 64,
+    "duration": 219841,
+    "releaseDate": {
+      "$date": "2020-10-14T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab6d143965ae8d0705fee951"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bb3"
+  },
+  "artists": [
+    {
+      "name": "Dadju",
+      "id": "4sbXXFzEWJY2zsZjelerjX"
+    },
+    {
+      "name": "Tiakola",
+      "id": "3vUMXQ9kPnZAQkMkZZ7Hfh"
+    }
+  ],
+  "title": "Dieu merci",
+  "metadata": {
+    "spotifyId": "4kTF7OQVjTSZ5zdRqo8zxx",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 69,
+    "duration": 211648,
+    "releaseDate": {
+      "$date": "2020-10-08T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8132159c571c24105c5ee43"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bb5"
+  },
+  "artists": [
+    {
+      "name": "Pop Smoke",
+      "id": "0eDvMgVFoNV3TpwtrVCoTj"
+    },
+    {
+      "name": "Lil Baby",
+      "id": "5f7VJjfbwm532GiveGC0ZK"
+    },
+    {
+      "name": "DaBaby",
+      "id": "4r63FhuTkUYltbVAg5TQnk"
+    }
+  ],
+  "title": "For The Night (feat. Lil Baby & DaBaby)",
+  "metadata": {
+    "spotifyId": "0PvFJmanyNQMseIFrU708S",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 95,
+    "duration": 190476,
+    "releaseDate": {
+      "$date": "2020-07-03T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bb7"
+  },
+  "artists": [
+    {
+      "name": "Lacrim",
+      "id": "7DUTsWY3RBd64vh8UtgtYA"
+    }
+  ],
+  "title": "Jacques Chirac",
+  "metadata": {
+    "spotifyId": "5jZQKuiGNtwrr7C8GFMVeL",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 58,
+    "duration": 176733,
+    "releaseDate": {
+      "$date": "2020-10-15T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c149cab8b9e0169bdcc957f7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bb9"
+  },
+  "artists": [
+    {
+      "name": "Lacrim",
+      "id": "7DUTsWY3RBd64vh8UtgtYA"
+    },
+    {
+      "name": "Jul",
+      "id": "3IW7ScrzXmPvZhB27hmfgy"
+    }
+  ],
+  "title": "Eric Cantona",
+  "metadata": {
+    "spotifyId": "4Y1qZCUyg9Tjr9G2g79SFQ",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 62,
+    "duration": 178960,
+    "releaseDate": {
+      "$date": "2020-10-15T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c149cab8b9e0169bdcc957f7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bbb"
+  },
+  "artists": [
+    {
+      "name": "PLK",
+      "id": "3DCWeG2J1fZeu0Oe6i5Q6m"
+    },
+    {
+      "name": "Niska",
+      "id": "7CUFPNi1TU8RowpnFRSsZV"
+    }
+  ],
+  "title": "On sait jamais (feat. Niska)",
+  "metadata": {
+    "spotifyId": "216QmkNpU3hIjeZtGocb9B",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 75,
+    "duration": 194973,
+    "releaseDate": {
+      "$date": "2020-08-28T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab779f2adb1007f0321ecab8"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bbd"
+  },
+  "artists": [
+    {
+      "name": "Wejdene",
+      "id": "1SxuyHZnLUFyFHGzdGaxZk"
+    }
+  ],
+  "title": "Coco",
+  "metadata": {
+    "spotifyId": "0KmJlpwFryVrik3YN3PkPz",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 64,
+    "duration": 167997,
+    "releaseDate": {
+      "$date": "2020-09-25T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737fbdfe62df888ed4cf71716e"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bbf"
+  },
+  "artists": [
+    {
+      "name": "DJ Kayz",
+      "id": "1GQ4ihUi4W36nt5ZKmtMgh"
+    },
+    {
+      "name": "Niska",
+      "id": "7CUFPNi1TU8RowpnFRSsZV"
+    }
+  ],
+  "title": "Monte le son",
+  "metadata": {
+    "spotifyId": "3FMhzMn4vB32InnfA2DiEf",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 67,
+    "duration": 216000,
+    "releaseDate": {
+      "$date": "2020-10-02T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739af2144fa6f12123ce42e0e0"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bc1"
+  },
+  "artists": [
+    {
+      "name": "Master KG",
+      "id": "523y9KSneKh6APd1hKxLuF"
+    },
+    {
+      "name": "Nomcebo Zikode",
+      "id": "4cfKtwkefMW3aiXtxfw8w6"
+    }
+  ],
+  "title": "Jerusalema (feat. Nomcebo Zikode)",
+  "metadata": {
+    "spotifyId": "2MlOUXmcofMackX3bxfSwi",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 86,
+    "duration": 342612,
+    "releaseDate": {
+      "$date": "2020-01-24T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1a199f973b9e127111711c0"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bc3"
+  },
+  "artists": [
+    {
+      "name": "Damso",
+      "id": "2UwqpfQtNuhBwviIC0f2ie"
+    }
+  ],
+  "title": "DEUX TOILES DE MER",
+  "metadata": {
+    "spotifyId": "7yN9Qx1HtE4c1fhakBz8Ay",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 77,
+    "duration": 315640,
+    "releaseDate": {
+      "$date": "2020-09-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734327854be74ad162694d5055"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bc5"
+  },
+  "artists": [
+    {
+      "name": "Damso",
+      "id": "2UwqpfQtNuhBwviIC0f2ie"
+    }
+  ],
+  "title": "911",
+  "metadata": {
+    "spotifyId": "2chIkORxBLpPVgruGiMY8k",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 75,
+    "duration": 172293,
+    "releaseDate": {
+      "$date": "2020-09-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734327854be74ad162694d5055"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bc7"
+  },
+  "artists": [
+    {
+      "name": "Lacrim",
+      "id": "7DUTsWY3RBd64vh8UtgtYA"
+    }
+  ],
+  "title": "Végéta",
+  "metadata": {
+    "spotifyId": "0nbyloysZRfX5dcNnMv1sd",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 60,
+    "duration": 195493,
+    "releaseDate": {
+      "$date": "2020-10-15T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c149cab8b9e0169bdcc957f7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bc9"
+  },
+  "artists": [
+    {
+      "name": "Lucky Luke",
+      "id": "5ee4yhrWOxaxvL77BoVpVR"
+    }
+  ],
+  "title": "Cooler Than Me",
+  "metadata": {
+    "spotifyId": "525GY0mXYnxajolwgS8Eaz",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 81,
+    "duration": 179760,
+    "releaseDate": {
+      "$date": "2019-05-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273571ca3d76372773bea064a2b"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bcb"
+  },
+  "artists": [
+    {
+      "name": "Lucenzo",
+      "id": "5bv5RplEOwdCvhq0EILh9E"
+    }
+  ],
+  "title": "No me ama",
+  "metadata": {
+    "spotifyId": "7vdq8RlxxuhB1GFIN9FIlI",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 70,
+    "duration": 167474,
+    "releaseDate": {
+      "$date": "2020-07-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d96864ca3b124cca6c8f3c6a"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bcd"
+  },
+  "artists": [
+    {
+      "name": "Ofenbach",
+      "id": "4AKwRarlmsUlLjIwt38NLw"
+    },
+    {
+      "name": "Quarterhead",
+      "id": "2h6hAChW74hB9HvrNoK1RY"
+    },
+    {
+      "name": "Norma Jean Martine",
+      "id": "2fsk4VlJdNF6G8cCMDrrzB"
+    }
+  ],
+  "title": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
+  "metadata": {
+    "spotifyId": "6i7zAdNhzUN2k1HcrBxPHG",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 83,
+    "duration": 156960,
+    "releaseDate": {
+      "$date": "2020-05-08T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e264f61d46ee0aa92ea3ffe"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bcf"
+  },
+  "artists": [
+    {
+      "name": "91 All Stars",
+      "id": "2NXFKDjgSuIyiUUH2PEVHG"
+    },
+    {
+      "name": "Ninho",
+      "id": "6Te49r3A6f5BiIgBRxH7FH"
+    }
+  ],
+  "title": "La zone",
+  "metadata": {
+    "spotifyId": "4oLp7k4fINGrjuNxElKKGw",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 69,
+    "duration": 257727,
+    "releaseDate": {
+      "$date": "2020-10-01T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6f60cc07d73e2acab8ebc44"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bd1"
+  },
+  "artists": [
+    {
+      "name": "Pop Smoke",
+      "id": "0eDvMgVFoNV3TpwtrVCoTj"
+    }
+  ],
+  "title": "What You Know Bout Love",
+  "metadata": {
+    "spotifyId": "1tkg4EHVoqnhR6iFEXb60y",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 93,
+    "duration": 160000,
+    "releaseDate": {
+      "$date": "2020-07-03T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bd3"
+  },
+  "artists": [
+    {
+      "name": "Aya Nakamura",
+      "id": "7IlRNXHjoOCgEAWN5qYksg"
+    }
+  ],
+  "title": "Doudou",
+  "metadata": {
+    "spotifyId": "30WpoaLVDKtlnNnzoEcN2p",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 70,
+    "duration": 168719,
+    "releaseDate": {
+      "$date": "2020-10-09T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353366717556b9452603b63ef"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bd5"
+  },
+  "artists": [
+    {
+      "name": "Koba LaD",
+      "id": "1q7T9rFQ2a2ukA1PU51fo3"
+    },
+    {
+      "name": "Freeze corleone",
+      "id": "76Pl0epAMXVXJspaSuz8im"
+    }
+  ],
+  "title": "7 sur 7",
+  "metadata": {
+    "spotifyId": "1zx0P48KC7UeDhBEZkbCvo",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 74,
+    "duration": 193007,
+    "releaseDate": {
+      "$date": "2020-09-23T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c458ba410d434c6264d03a46"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bd7"
+  },
+  "artists": [
+    {
+      "name": "Aya Nakamura",
+      "id": "7IlRNXHjoOCgEAWN5qYksg"
+    }
+  ],
+  "title": "Jolie nana",
+  "metadata": {
+    "spotifyId": "34FbkFgAbv4ffvhL2XQMVm",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 82,
+    "duration": 147076,
+    "releaseDate": {
+      "$date": "2020-07-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2e7c5322770c06bdfead61f"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bd9"
+  },
+  "artists": [
+    {
+      "name": "Tayc",
+      "id": "7gU9VyFRN3JWPJ5oHOil60"
+    }
+  ],
+  "title": "N'y pense plus",
+  "metadata": {
+    "spotifyId": "0RUavidTwACAYUoNhAxNNp",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 73,
+    "duration": 212006,
+    "releaseDate": {
+      "$date": "2020-06-19T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c74337c2a73309e5a0ab090"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bdb"
+  },
+  "artists": [
+    {
+      "name": "Bosh",
+      "id": "6Mm2g25BTeJ6BICPFWGkPg"
+    }
+  ],
+  "title": "Djomb - Bien ou quoi",
+  "metadata": {
+    "spotifyId": "0KBwGCY9RYD9t2zjeW4h48",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 76,
+    "duration": 141893,
+    "releaseDate": {
+      "$date": "2020-05-29T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb9d17dc1e56e0df7a146588"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bdd"
+  },
+  "artists": [
+    {
+      "name": "DaBaby",
+      "id": "4r63FhuTkUYltbVAg5TQnk"
+    },
+    {
+      "name": "Roddy Ricch",
+      "id": "757aE44tKEUQEqRuT6GnEB"
+    }
+  ],
+  "title": "ROCKSTAR (feat. Roddy Ricch)",
+  "metadata": {
+    "spotifyId": "7ytR5pFWmSjzHJIeQkgog4",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 95,
+    "duration": 181733,
+    "releaseDate": {
+      "$date": "2020-04-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bdf"
+  },
+  "artists": [
+    {
+      "name": "Green Montana",
+      "id": "0zhMujl1yB8pkB023Qm4Y2"
+    },
+    {
+      "name": "Booba",
+      "id": "58wXmynHaAWI5hwlPZP3qL"
+    }
+  ],
+  "title": "TOUT GACHER",
+  "metadata": {
+    "spotifyId": "6kXjsO0sGgaiR2wKN5uSz7",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 62,
+    "duration": 162306,
+    "releaseDate": {
+      "$date": "2020-10-15T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735833f9b12f8efaf0528ef024"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306be1"
+  },
+  "artists": [
+    {
+      "name": "Harry Styles",
+      "id": "6KImCVD70vtIoJWnq6nGn3"
+    }
+  ],
+  "title": "Watermelon Sugar",
+  "metadata": {
+    "spotifyId": "6UelLqGlWMcVH1E5c4H7lY",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 95,
+    "duration": 174000,
+    "releaseDate": {
+      "$date": "2019-12-13T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306be3"
+  },
+  "artists": [
+    {
+      "name": "Dadju",
+      "id": "4sbXXFzEWJY2zsZjelerjX"
+    }
+  ],
+  "title": "Amour toxic",
+  "metadata": {
+    "spotifyId": "70APCdHsWV5BEsacwjzXmd",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 69,
+    "duration": 218480,
+    "releaseDate": {
+      "$date": "2020-09-25T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303bb9e103697ae15187f16d8"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306be5"
+  },
+  "artists": [
+    {
+      "name": "Freeze corleone",
+      "id": "76Pl0epAMXVXJspaSuz8im"
+    }
+  ],
+  "title": "Freeze Raël",
+  "metadata": {
+    "spotifyId": "6DPrYPPGYK218iVIZDix3i",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 76,
+    "duration": 268946,
+    "releaseDate": {
+      "$date": "2020-09-11T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304a2bc0e349bba45f7558da9"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306be7"
+  },
+  "artists": [
+    {
+      "name": "Jason Derulo",
+      "id": "07YZf4WDAMNwqr4jfgOZ8y"
+    }
+  ],
+  "title": "Take You Dancing",
+  "metadata": {
+    "spotifyId": "59qrUpoplZxbIZxk6X0Bm3",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 91,
+    "duration": 190306,
+    "releaseDate": {
+      "$date": "2020-07-22T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354eab2e4aa8b8706b6b526d2"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306be9"
+  },
+  "artists": [
+    {
+      "name": "Cardi B",
+      "id": "4kYSro6naA4h99UJvo89HB"
+    },
+    {
+      "name": "Megan Thee Stallion",
+      "id": "181bsRPaVXVlUKXrxwZfHK"
+    }
+  ],
+  "title": "WAP (feat. Megan Thee Stallion)",
+  "metadata": {
+    "spotifyId": "4Oun2ylbjFKMPTiaSbbCih",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 98,
+    "duration": 187541,
+    "releaseDate": {
+      "$date": "2020-08-07T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306beb"
+  },
+  "artists": [
+    {
+      "name": "Lacrim",
+      "id": "7DUTsWY3RBd64vh8UtgtYA"
+    }
+  ],
+  "title": "Rafa & Carlos",
+  "metadata": {
+    "spotifyId": "5Zvcm3RT4ImIepkZ5kkXyU",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 60,
+    "duration": 191853,
+    "releaseDate": {
+      "$date": "2020-10-15T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c149cab8b9e0169bdcc957f7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bed"
+  },
+  "artists": [
+    {
+      "name": "Lacrim",
+      "id": "7DUTsWY3RBd64vh8UtgtYA"
+    },
+    {
+      "name": "Niska",
+      "id": "7CUFPNi1TU8RowpnFRSsZV"
+    }
+  ],
+  "title": "Nipsey Hussle",
+  "metadata": {
+    "spotifyId": "1NDhFGCNVQkJr7qFK5J4l4",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 61,
+    "duration": 175160,
+    "releaseDate": {
+      "$date": "2020-10-15T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c149cab8b9e0169bdcc957f7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3bec947b0297306bef"
+  },
+  "artists": [
+    {
+      "name": "Mac Tyer",
+      "id": "1PTl9q5EaEZejVGts7MBLN"
+    },
+    {
+      "name": "Ninho",
+      "id": "6Te49r3A6f5BiIgBRxH7FH"
+    }
+  ],
+  "title": "Moto",
+  "metadata": {
+    "spotifyId": "5DH03Qs3SSG12TNUCSAzMi",
+    "playlistId": "37i9dQZEVXbIPWwFssbupI",
+    "popularity": 72,
+    "duration": 217562,
+    "releaseDate": {
+      "$date": "2020-07-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd8678ef0fbd2cb858fb8f87"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306bf1"
+  },
+  "artists": [
+    {
+      "name": "Joel Corry",
+      "id": "6DgP9otnZw5z6daOntINxp"
+    },
+    {
+      "name": "MNEK",
+      "id": "7uMh23xWiuR7zsNkuNcm2G"
+    }
+  ],
+  "title": "Head & Heart (feat. MNEK)",
+  "metadata": {
+    "spotifyId": "6cx06DFPPHchuUAcTxznu9",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 94,
+    "duration": 166028,
+    "releaseDate": {
+      "$date": "2020-07-03T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391e93c59bacfe819db9601eb"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306bf3"
+  },
+  "artists": [
+    {
+      "name": "24kGoldn",
+      "id": "6fWVd57NKTalqvmjRd2t8Z"
+    },
+    {
+      "name": "iann dior",
+      "id": "6ASri4ePR7RlsvIQgWPJpS"
+    }
+  ],
+  "title": "Mood (feat. iann dior)",
+  "metadata": {
+    "spotifyId": "3tjFYV6RSFtuktYl3ZtYcq",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 100,
+    "duration": 140525,
+    "releaseDate": {
+      "$date": "2020-07-24T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff8c985ecb3b7c5f847be357"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306bf5"
+  },
+  "artists": [
+    {
+      "name": "Internet Money",
+      "id": "6MPCFvOQv5cIGfw3jODMF0"
+    },
+    {
+      "name": "Gunna",
+      "id": "2hlmm7s2ICUX0LVIhVFlZQ"
+    },
+    {
+      "name": "Don Toliver",
+      "id": "4Gso3d4CscCijv0lmajZWs"
+    },
+    {
+      "name": "NAV",
+      "id": "7rkW85dBwwrJtlHRDkJDAC"
+    }
+  ],
+  "title": "Lemonade (feat. Gunna, Don Toliver & NAV)",
+  "metadata": {
+    "spotifyId": "7hxHWCCAIIxFLCzvDgnQHX",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 87,
+    "duration": 195428,
+    "releaseDate": {
+      "$date": "2020-08-28T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ca0c952f130e28025209cf0"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306bf7"
+  },
+  "artists": [
+    {
+      "name": "Cardi B",
+      "id": "4kYSro6naA4h99UJvo89HB"
+    },
+    {
+      "name": "Megan Thee Stallion",
+      "id": "181bsRPaVXVlUKXrxwZfHK"
+    }
+  ],
+  "title": "WAP (feat. Megan Thee Stallion)",
+  "metadata": {
+    "spotifyId": "4Oun2ylbjFKMPTiaSbbCih",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 98,
+    "duration": 187541,
+    "releaseDate": {
+      "$date": "2020-08-07T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306bf9"
+  },
+  "artists": [
+    {
+      "name": "Maluma",
+      "id": "1r4hJ1h58CWwUQe3MxPuau"
+    }
+  ],
+  "title": "Hawái",
+  "metadata": {
+    "spotifyId": "1yoMvmasuxZfqHEipJhRbp",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 89,
+    "duration": 199112,
+    "releaseDate": {
+      "$date": "2020-08-21T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387d15f78ec75621d40028baf"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306bfb"
+  },
+  "artists": [
+    {
+      "name": "BTS",
+      "id": "3Nrfpe0tUJi4K4DXYWgMUX"
+    }
+  ],
+  "title": "Dynamite",
+  "metadata": {
+    "spotifyId": "0t1kP63rueHleOhQkYSXFY",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 97,
+    "duration": 199053,
+    "releaseDate": {
+      "$date": "2020-08-28T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273755995e9ff2b1b0c753f5eb8"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306bfd"
+  },
+  "artists": [
+    {
+      "name": "Pop Smoke",
+      "id": "0eDvMgVFoNV3TpwtrVCoTj"
+    }
+  ],
+  "title": "What You Know Bout Love",
+  "metadata": {
+    "spotifyId": "1tkg4EHVoqnhR6iFEXb60y",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 93,
+    "duration": 160000,
+    "releaseDate": {
+      "$date": "2020-07-03T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306bff"
+  },
+  "artists": [
+    {
+      "name": "The Weeknd",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ"
+    }
+  ],
+  "title": "Blinding Lights",
+  "metadata": {
+    "spotifyId": "0VjIjW4GlUZAMYd2vXMi3b",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 96,
+    "duration": 200040,
+    "releaseDate": {
+      "$date": "2020-03-20T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c01"
+  },
+  "artists": [
+    {
+      "name": "Michel Dj",
+      "id": "3xkGLkIacZeEl0tXUAWtT5"
+    }
+  ],
+  "title": "Anger Love",
+  "metadata": {
+    "spotifyId": "06tbhBqmkRG0ajv7PbYqSp",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 41,
+    "duration": 196000,
+    "releaseDate": {
+      "$date": "2020-09-24T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d7523bd9d3ca591a41dc87a"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c03"
+  },
+  "artists": [
+    {
+      "name": "J Balvin",
+      "id": "1vyhD5VmyZ7KMfW5gqLgo5"
+    },
+    {
+      "name": "Tainy",
+      "id": "0GM7qgcRCORpGnfcN2tCiB"
+    },
+    {
+      "name": "Dua Lipa",
+      "id": "6M2wZ9GZgrQXHCFfjv46we"
+    },
+    {
+      "name": "Bad Bunny",
+      "id": "4q3ewBCX7sLwd24euuV69X"
+    }
+  ],
+  "title": "UN DIA (ONE DAY) (Feat. Tainy)",
+  "metadata": {
+    "spotifyId": "0EhpEsp4L0oRGM0vmeaN5e",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 93,
+    "duration": 232253,
+    "releaseDate": {
+      "$date": "2020-07-24T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273312bd86cc2db22fde885ee73"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c05"
+  },
+  "artists": [
+    {
+      "name": "Justin Bieber",
+      "id": "1uNFoZAHBGtllmzznpCI3s"
+    },
+    {
+      "name": "Chance the Rapper",
+      "id": "1anyVhU62p31KFi8MEzkbf"
+    }
+  ],
+  "title": "Holy (feat. Chance The Rapper)",
+  "metadata": {
+    "spotifyId": "5u1n1kITHCxxp8twBcZxWy",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 94,
+    "duration": 212093,
+    "releaseDate": {
+      "$date": "2020-09-18T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273572c68f79b356c21202e248c"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c07"
+  },
+  "artists": [
+    {
+      "name": "Pop Smoke",
+      "id": "0eDvMgVFoNV3TpwtrVCoTj"
+    },
+    {
+      "name": "Lil Baby",
+      "id": "5f7VJjfbwm532GiveGC0ZK"
+    },
+    {
+      "name": "DaBaby",
+      "id": "4r63FhuTkUYltbVAg5TQnk"
+    }
+  ],
+  "title": "For The Night (feat. Lil Baby & DaBaby)",
+  "metadata": {
+    "spotifyId": "0PvFJmanyNQMseIFrU708S",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 95,
+    "duration": 190476,
+    "releaseDate": {
+      "$date": "2020-07-03T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c09"
+  },
+  "artists": [
+    {
+      "name": "Harry Styles",
+      "id": "6KImCVD70vtIoJWnq6nGn3"
+    }
+  ],
+  "title": "Watermelon Sugar",
+  "metadata": {
+    "spotifyId": "6UelLqGlWMcVH1E5c4H7lY",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 95,
+    "duration": 174000,
+    "releaseDate": {
+      "$date": "2019-12-13T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c0b"
+  },
+  "artists": [
+    {
+      "name": "Michel Dj",
+      "id": "3xkGLkIacZeEl0tXUAWtT5"
+    },
+    {
+      "name": "Bene Dee",
+      "id": "7HTm730p5pRyXT0HaqKsVK"
+    }
+  ],
+  "title": "Ilomilo",
+  "metadata": {
+    "spotifyId": "4jxWGHmMyfdOtt99WDbOPM",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 47,
+    "duration": 187000,
+    "releaseDate": {
+      "$date": "2020-08-10T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315245f1f9123e33efdf1e8d2"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c0d"
+  },
+  "artists": [
+    {
+      "name": "Tate McRae",
+      "id": "45dkTj5sMRSjrmBSBeiHym"
+    }
+  ],
+  "title": "you broke me first",
+  "metadata": {
+    "spotifyId": "45bE4HXI0AwGZXfZtMp8JR",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 94,
+    "duration": 169265,
+    "releaseDate": {
+      "$date": "2020-04-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c2c97099fd6a637ed0aa4a4"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c0f"
+  },
+  "artists": [
+    {
+      "name": "Michael FAY",
+      "id": "0VGxVDRb7Ut8eN2xL7kVXi"
+    }
+  ],
+  "title": "Deep Sunset",
+  "metadata": {
+    "spotifyId": "2F1oncjvViHXXK6bBAek1A",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 43,
+    "duration": 284516,
+    "releaseDate": {
+      "$date": "2019-05-01T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ee7ba898581d503aa878ddc"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c11"
+  },
+  "artists": [
+    {
+      "name": "Michel Dj",
+      "id": "3xkGLkIacZeEl0tXUAWtT5"
+    },
+    {
+      "name": "Bene Dee",
+      "id": "7HTm730p5pRyXT0HaqKsVK"
+    }
+  ],
+  "title": "Everything I Wanted",
+  "metadata": {
+    "spotifyId": "2sWUvPgIzf4rHExCX2Mwip",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 46,
+    "duration": 250000,
+    "releaseDate": {
+      "$date": "2020-05-03T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa5ffe653aa04a9e10655a7d"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c13"
+  },
+  "artists": [
+    {
+      "name": "DaBaby",
+      "id": "4r63FhuTkUYltbVAg5TQnk"
+    },
+    {
+      "name": "Roddy Ricch",
+      "id": "757aE44tKEUQEqRuT6GnEB"
+    }
+  ],
+  "title": "ROCKSTAR (feat. Roddy Ricch)",
+  "metadata": {
+    "spotifyId": "7ytR5pFWmSjzHJIeQkgog4",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 95,
+    "duration": 181733,
+    "releaseDate": {
+      "$date": "2020-04-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c15"
+  },
+  "artists": [
+    {
+      "name": "Justin Bieber",
+      "id": "1uNFoZAHBGtllmzznpCI3s"
+    },
+    {
+      "name": "benny blanco",
+      "id": "5CiGnKThu5ctn9pBxv7DGa"
+    }
+  ],
+  "title": "Lonely (with benny blanco)",
+  "metadata": {
+    "spotifyId": "4y4spB9m0Q6026KfkAvy9Q",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 81,
+    "duration": 149297,
+    "releaseDate": {
+      "$date": "2020-10-16T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c17"
+  },
+  "artists": [
+    {
+      "name": "Drake",
+      "id": "3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "name": "Lil Durk",
+      "id": "3hcs9uc56yIGFCSy9leWe7"
+    }
+  ],
+  "title": "Laugh Now Cry Later (feat. Lil Durk)",
+  "metadata": {
+    "spotifyId": "2SAqBLGA283SUiwJ3xOUVI",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 95,
+    "duration": 261492,
+    "releaseDate": {
+      "$date": "2020-08-14T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352c75ed37313b889447011ef"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c19"
+  },
+  "artists": [
+    {
+      "name": "Jawsh 685",
+      "id": "56mfhUDKa1vec6rSLZV5Eg"
+    },
+    {
+      "name": "Jason Derulo",
+      "id": "07YZf4WDAMNwqr4jfgOZ8y"
+    }
+  ],
+  "title": "Savage Love (Laxed - Siren Beat)",
+  "metadata": {
+    "spotifyId": "1xQ6trAsedVPCdbtDAmk0c",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 94,
+    "duration": 171374,
+    "releaseDate": {
+      "$date": "2020-06-11T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3eb3b8feeafb746ecf659e7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c1b"
+  },
+  "artists": [
+    {
+      "name": "Fleetwood Mac",
+      "id": "08GQAI4eElDnROBrJRGE0X"
+    }
+  ],
+  "title": "Dreams - 2004 Remaster",
+  "metadata": {
+    "spotifyId": "0ofHAoxe9vBkTCp2UQIavz",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 88,
+    "duration": 257800,
+    "releaseDate": {
+      "$date": "1977-02-04T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c1d"
+  },
+  "artists": [
+    {
+      "name": "Shawn Mendes",
+      "id": "7n2wHs1TKAczGzO7Dd2rGr"
+    }
+  ],
+  "title": "Wonder",
+  "metadata": {
+    "spotifyId": "5KCbr5ndeby4y4ggthdiAb",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 90,
+    "duration": 172692,
+    "releaseDate": {
+      "$date": "2020-10-02T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d9621bb2904dc57a60a6b36"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c1f"
+  },
+  "artists": [
+    {
+      "name": "Michel Dj",
+      "id": "3xkGLkIacZeEl0tXUAWtT5"
+    }
+  ],
+  "title": "No Way Home",
+  "metadata": {
+    "spotifyId": "16mQpMnQIEwLof1mlIhK0U",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 38,
+    "duration": 150000,
+    "releaseDate": {
+      "$date": "2020-05-26T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738466a87742250046eea09173"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c21"
+  },
+  "artists": [
+    {
+      "name": "Conan Gray",
+      "id": "4Uc8Dsxct0oMqx0P6i60ea"
+    }
+  ],
+  "title": "Heather",
+  "metadata": {
+    "spotifyId": "4xqrdfXkTW4T0RauPLv3WA",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 94,
+    "duration": 198040,
+    "releaseDate": {
+      "$date": "2020-03-20T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c23"
+  },
+  "artists": [
+    {
+      "name": "SAINt JHN",
+      "id": "0H39MdGGX6dbnnQPt6NQkZ"
+    },
+    {
+      "name": "Imanbek",
+      "id": "5rGrDvrLOV2VV8SCFVGWlj"
+    }
+  ],
+  "title": "Roses - Imanbek Remix",
+  "metadata": {
+    "spotifyId": "2Wo6QQD1KMDWeFkkjLqwx5",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 81,
+    "duration": 176218,
+    "releaseDate": {
+      "$date": "2019-09-13T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369450869a3ffaf23bc3898bf"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c25"
+  },
+  "artists": [
+    {
+      "name": "Michel Dj",
+      "id": "3xkGLkIacZeEl0tXUAWtT5"
+    }
+  ],
+  "title": "Circle",
+  "metadata": {
+    "spotifyId": "7AKxtNNMtq01SSAIE6SIZy",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 38,
+    "duration": 145573,
+    "releaseDate": {
+      "$date": "2020-05-26T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bafbe5873a12ef0075bfed83"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c27"
+  },
+  "artists": [
+    {
+      "name": "Ritt Momney",
+      "id": "7MPGCB854Qo4alYMOPkBka"
+    }
+  ],
+  "title": "Put Your Records On",
+  "metadata": {
+    "spotifyId": "6AGOKlMZWLCaEJGnaROtF9",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 90,
+    "duration": 210463,
+    "releaseDate": {
+      "$date": "2020-04-24T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d52d8eb3be188231e120dbbd"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c29"
+  },
+  "artists": [
+    {
+      "name": "BLACKPINK",
+      "id": "41MozSoPIsD1dJM0CLPjZF"
+    }
+  ],
+  "title": "Lovesick Girls",
+  "metadata": {
+    "spotifyId": "4Ws314Ylb27BVsvlZOy30C",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 86,
+    "duration": 192760,
+    "releaseDate": {
+      "$date": "2020-10-02T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bdbbf3b36ef14f91dcfd8d7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c2b"
+  },
+  "artists": [
+    {
+      "name": "KAROL G",
+      "id": "790FomKkXshlbRYZFtlgla"
+    }
+  ],
+  "title": "Ay, DiOs Mío!",
+  "metadata": {
+    "spotifyId": "7x4ASXYEKfQBCewcZhK776",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 93,
+    "duration": 189653,
+    "releaseDate": {
+      "$date": "2020-07-10T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273787fe606ce7ab74559ec541f"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c2d"
+  },
+  "artists": [
+    {
+      "name": "BLACKPINK",
+      "id": "41MozSoPIsD1dJM0CLPjZF"
+    },
+    {
+      "name": "Selena Gomez",
+      "id": "0C8ZW7ezQVs4URX5aX7Kqx"
+    }
+  ],
+  "title": "Ice Cream (with Selena Gomez)",
+  "metadata": {
+    "spotifyId": "4JUPEh2DVSXFGExu4Uxevz",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 81,
+    "duration": 175813,
+    "releaseDate": {
+      "$date": "2020-10-02T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bdbbf3b36ef14f91dcfd8d7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c2f"
+  },
+  "artists": [
+    {
+      "name": "Michel Dj",
+      "id": "3xkGLkIacZeEl0tXUAWtT5"
+    }
+  ],
+  "title": "Out Loud",
+  "metadata": {
+    "spotifyId": "3zdSNTtztFL3wkNzEpBlbZ",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 33,
+    "duration": 165000,
+    "releaseDate": {
+      "$date": "2020-02-24T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf19ebb74997a4938ad42cb9"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c31"
+  },
+  "artists": [
+    {
+      "name": "DJ Khaled",
+      "id": "0QHgL1lAIqAw0HtD7YldmP"
+    },
+    {
+      "name": "Drake",
+      "id": "3TVXtAsR1Inumwj472S9r4"
+    }
+  ],
+  "title": "POPSTAR (feat. Drake)",
+  "metadata": {
+    "spotifyId": "6EDO9iiTtwNv6waLwa1UUq",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 93,
+    "duration": 200221,
+    "releaseDate": {
+      "$date": "2020-07-17T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efaecb4b9cbae7c120d14617"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c33"
+  },
+  "artists": [
+    {
+      "name": "Topic",
+      "id": "0u6GtibW46tFX7koQ6uNJZ"
+    },
+    {
+      "name": "A7S",
+      "id": "5Wg2b4Mp42gicxEeDNawf7"
+    }
+  ],
+  "title": "Breaking Me",
+  "metadata": {
+    "spotifyId": "3H7ihDc1dqLriiWXwsc2po",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 93,
+    "duration": 166793,
+    "releaseDate": {
+      "$date": "2019-12-19T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca801dab96017456b9847ac2"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c35"
+  },
+  "artists": [
+    {
+      "name": "Michel Dj",
+      "id": "3xkGLkIacZeEl0tXUAWtT5"
+    }
+  ],
+  "title": "Coming Back Around",
+  "metadata": {
+    "spotifyId": "6vaMidBAzUMRwMKL00co8q",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 35,
+    "duration": 145161,
+    "releaseDate": {
+      "$date": "2020-09-22T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399a33027dfaeefedda5eb927"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c37"
+  },
+  "artists": [
+    {
+      "name": "Jason Derulo",
+      "id": "07YZf4WDAMNwqr4jfgOZ8y"
+    }
+  ],
+  "title": "Take You Dancing",
+  "metadata": {
+    "spotifyId": "59qrUpoplZxbIZxk6X0Bm3",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 91,
+    "duration": 190306,
+    "releaseDate": {
+      "$date": "2020-07-22T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354eab2e4aa8b8706b6b526d2"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c39"
+  },
+  "artists": [
+    {
+      "name": "Pop Smoke",
+      "id": "0eDvMgVFoNV3TpwtrVCoTj"
+    },
+    {
+      "name": "Lil Tjay",
+      "id": "6jGMq4yGs7aQzuGsMgVgZR"
+    }
+  ],
+  "title": "Mood Swings (feat. Lil Tjay)",
+  "metadata": {
+    "spotifyId": "5rZlwNFl01HqLWBQGryKSm",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 92,
+    "duration": 213333,
+    "releaseDate": {
+      "$date": "2020-07-03T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c3b"
+  },
+  "artists": [
+    {
+      "name": "Juice WRLD",
+      "id": "4MCBfE4596Uoi2O4DtmEMz"
+    },
+    {
+      "name": "Marshmello",
+      "id": "64KEffDW9EtZ1y2vBYgq8T"
+    }
+  ],
+  "title": "Come & Go (with Marshmello)",
+  "metadata": {
+    "spotifyId": "2Y0wPrPQBrGhoLn14xRYCG",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 90,
+    "duration": 205484,
+    "releaseDate": {
+      "$date": "2020-07-10T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c3d"
+  },
+  "artists": [
+    {
+      "name": "Miley Cyrus",
+      "id": "5YGY8feqx7naU7z4HrwZM6"
+    }
+  ],
+  "title": "Midnight Sky",
+  "metadata": {
+    "spotifyId": "27ycaQnQAxaPiyeg3nr2aB",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 91,
+    "duration": 223279,
+    "releaseDate": {
+      "$date": "2020-08-14T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d59c3c489691c8b41043cab2"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c3f"
+  },
+  "artists": [
+    {
+      "name": "BLACKPINK",
+      "id": "41MozSoPIsD1dJM0CLPjZF"
+    }
+  ],
+  "title": "How You Like That",
+  "metadata": {
+    "spotifyId": "4SFknyjLcyTLJFPKD2m96o",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 83,
+    "duration": 180946,
+    "releaseDate": {
+      "$date": "2020-10-02T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bdbbf3b36ef14f91dcfd8d7"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c41"
+  },
+  "artists": [
+    {
+      "name": "Dua Lipa",
+      "id": "6M2wZ9GZgrQXHCFfjv46we"
+    }
+  ],
+  "title": "Don't Start Now",
+  "metadata": {
+    "spotifyId": "3PfIrDoz19wz7qK7tYeu62",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 85,
+    "duration": 183290,
+    "releaseDate": {
+      "$date": "2020-03-27T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cda2c6ad6272aea9c5811a49"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c43"
+  },
+  "artists": [
+    {
+      "name": "Juice WRLD",
+      "id": "4MCBfE4596Uoi2O4DtmEMz"
+    }
+  ],
+  "title": "Wishing Well",
+  "metadata": {
+    "spotifyId": "2U5WueTLIK5WJLD7mvDODv",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 91,
+    "duration": 194621,
+    "releaseDate": {
+      "$date": "2020-07-10T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c45"
+  },
+  "artists": [
+    {
+      "name": "Powfu",
+      "id": "6bmlMHgSheBauioMgKv2tn"
+    },
+    {
+      "name": "beabadoobee",
+      "id": "35l9BRT7MXmM8bv2WDQiyB"
+    }
+  ],
+  "title": "death bed (coffee for your head)",
+  "metadata": {
+    "spotifyId": "7eJMfftS33KTjuF7lTsMCx",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 91,
+    "duration": 173333,
+    "releaseDate": {
+      "$date": "2020-02-08T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c47"
+  },
+  "artists": [
+    {
+      "name": "Michel Dj",
+      "id": "3xkGLkIacZeEl0tXUAWtT5"
+    }
+  ],
+  "title": "Love the Way",
+  "metadata": {
+    "spotifyId": "37VXsRvUwEAsCPfyiyGEdP",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 33,
+    "duration": 161454,
+    "releaseDate": {
+      "$date": "2019-06-05T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f904e488c7d508813d4cf45f"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c49"
+  },
+  "artists": [
+    {
+      "name": "Michael FAY",
+      "id": "0VGxVDRb7Ut8eN2xL7kVXi"
+    }
+  ],
+  "title": "Una Cancion (A Sax Song)",
+  "metadata": {
+    "spotifyId": "5a81uPXs1RAadLaxwK7gwR",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 43,
+    "duration": 222862,
+    "releaseDate": {
+      "$date": "2019-06-24T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732eb46a3fe81b6411eb47be16"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c4b"
+  },
+  "artists": [
+    {
+      "name": "Sech",
+      "id": "77ziqFxp5gaInVrF2lj4ht"
+    },
+    {
+      "name": "Daddy Yankee",
+      "id": "4VMYDCV2IEDYJArk749S6m"
+    },
+    {
+      "name": "J Balvin",
+      "id": "1vyhD5VmyZ7KMfW5gqLgo5"
+    },
+    {
+      "name": "ROSALÍA",
+      "id": "7ltDVBr6mKbRvohxheJ9h1"
+    },
+    {
+      "name": "Farruko",
+      "id": "329e4yvIujISKGKz1BZZbO"
+    }
+  ],
+  "title": "Relación - Remix",
+  "metadata": {
+    "spotifyId": "35UUpTmrcFXNIVIN26ujXl",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 93,
+    "duration": 247308,
+    "releaseDate": {
+      "$date": "2020-09-04T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363d74fcb3aaafe8c16e62f9b"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c4d"
+  },
+  "artists": [
+    {
+      "name": "Farruko",
+      "id": "329e4yvIujISKGKz1BZZbO"
+    }
+  ],
+  "title": "La Tóxica",
+  "metadata": {
+    "spotifyId": "15OjBeqNX3bShsGYQbteRv",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 90,
+    "duration": 180520,
+    "releaseDate": {
+      "$date": "2020-07-24T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300dbb42f00340f35ce0ec816"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c4f"
+  },
+  "artists": [
+    {
+      "name": "Jay Wheeler",
+      "id": "2cPqdH7XMvwaBJEVjheH8g"
+    },
+    {
+      "name": "DJ Nelson",
+      "id": "2ydZrTy8U3kOMOzx20s3dg"
+    },
+    {
+      "name": "Myke Towers",
+      "id": "7iK8PXO48WeuP03g8YR51W"
+    }
+  ],
+  "title": "La Curiosidad",
+  "metadata": {
+    "spotifyId": "4HYDUMY0xSpeBr0AMY9cUz",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 93,
+    "duration": 219048,
+    "releaseDate": {
+      "$date": "2020-06-12T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273509c45194c1ef6c1cb509e5d"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c51"
+  },
+  "artists": [
+    {
+      "name": "Camilo",
+      "id": "28gNT5KBp7IjEOQoevXf9N"
+    }
+  ],
+  "title": "Vida de Rico",
+  "metadata": {
+    "spotifyId": "73nAK3HgQK8dak83Y2WQ8F",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 89,
+    "duration": 187426,
+    "releaseDate": {
+      "$date": "2020-09-21T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731787548fbb289e9a26a5e1c1"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ecb3cec947b0297306c53"
+  },
+  "artists": [
+    {
+      "name": "Lele Pons",
+      "id": "6i3DxIlAqnDkwELLw4aVrx"
+    },
+    {
+      "name": "Guaynaa",
+      "id": "0BqURncJM5B1BBu7UM51eq"
+    }
+  ],
+  "title": "Se Te Nota (with Guaynaa)",
+  "metadata": {
+    "spotifyId": "11EnQRgRMJwMAesfkB5pnu",
+    "playlistId": "3kCLdlDu6Dnus3qF9EfYOY",
+    "popularity": 89,
+    "duration": 155825,
+    "releaseDate": {
+      "$date": "2020-09-02T00:00:00Z"
+    },
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7ca812abc74e09faeeadbb7"
+  }
+}]

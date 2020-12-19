@@ -1,0 +1,62 @@
+/** Navbar */
+.navbar {
+    @include setup('tablet', 'min') {
+        padding: .8rem 2rem 0 2rem;
+    }
+    @include setup('tablet', 'max') {
+        padding: 0rem 0rem 0 1rem;
+    }
+    a.navbar-item:visited,
+    a.navbar-item:hover,
+    a.navbar-item:active {
+        background-color: $dark !important;
+    }
+    .navbar-brand {
+        a {
+            padding: 0px;
+            img {
+                max-height: none;
+                margin: .1rem 0 0 0;
+            }
+        }
+        .navbar-burger {
+            span {
+                color: $primary;
+            }
+        }
+    }
+    .navbar-menu {
+        a.navbar-item,
+        a.navbar-item button {
+            font-weight: $weight-semibold;
+        }
+        .navbar-start {
+            @include setup('tablet', 'min') {
+                margin: 0 auto 0 auto;
+                a.navbar-item:after {
+                    content: '';
+                    position: absolute;
+                    margin-bottom: 15px;
+                    width: 0%;
+                    margin-left: 50%;
+                    height: 2px;
+                    bottom: 0;
+                    left: 0;
+                    transition:all 0.5s;
+                }
+                a.navbar-item.router-link-active:after {
+                    content: '';
+                    background-color: $primary;
+                    position: absolute;
+                    width: 50%;
+                    margin-left: 25%;
+                }
+            }
+        } 
+        .navbar-end {
+            @include setup('tablet', 'min') {
+                margin: 0 0 0 0;
+            }
+        }
+    }
+}

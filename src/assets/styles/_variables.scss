@@ -1,0 +1,26 @@
+/** Colors */
+$primary: #E9486C;
+$secondary: #425CA7;
+$light: #fff;
+$grey: #cccccc;
+$dark: #0E1121;
+
+/** Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+$family-sans-serif: 'Poppins', sans-serif;
+
+/** Text size*/
+$size-small: 0.7rem;
+$size-normal: 0.85rem;
+$size-medium: 1rem;
+$size-large: 1.2rem;
+
+/** Text weight */
+$weight-light: 300;
+$weight-normal: 400;
+$weight-medium: 500;
+$weight-semibold: 600;
+$weight-bold: 700;
+
+/** Resolving errors */
+$background: $light;

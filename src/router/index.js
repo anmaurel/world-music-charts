@@ -1,5 +1,9 @@
 import { createRouter, createWebHashHistory } from "vue-router";
 import Home from "../views/Home.vue";
+import Spotify from "../views/Spotify.vue";
+import Deezer from "../views/Deezer.vue";
+import SoundClound from "../views/SoundCloud.vue";
+import About from "../views/About.vue";
 
 const routes = [
   {
@@ -8,13 +12,24 @@ const routes = [
     component: Home
   },
   {
+    path: "/spotify",
+    name: "Spotify",
+    component: Spotify
+  },
+  {
+    path: "/deezer",
+    name: "Deezer",
+    component: Deezer
+  },
+  {
+    path: "/soundCloud",
+    name: "SoundClound",
+    component: SoundClound
+  },
+  {
     path: "/about",
     name: "About",
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () =>
-      import(/* webpackChunkName: "about" */ "../views/About.vue")
+    component: About
   }
 ];
 
